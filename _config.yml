@@ -11,5 +11,8 @@ aux_links:
 
 callouts:
   warning:
-    title: Warning
+    title: Advertencia
     color: red
+  info:
+    title: Información
+    color: blue
