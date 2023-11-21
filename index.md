@@ -10,7 +10,7 @@ nav_order: 2
 En esta sección podras encontrar estadisticas a nivel campus de las inscripciones y el estado de estas dentro de la plataforma.
 {: .fs-6 .fw-300 }
 
-[![Captura de pantalla del dashboard de SIU](../assets/images/dashboard.png)](../assets/images/dashboard.png)
+[![Captura de pantalla del dashboard de SIU](assets/images/dashboard.png)](assets/images/dashboard.png)
 
 ## Tabla de contenido
 {: .no_toc .text-delta }
