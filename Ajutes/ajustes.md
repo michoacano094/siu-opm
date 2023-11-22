@@ -11,5 +11,5 @@ has_children: true
 En este modulo podras hacer la carga de archivos masivos
 {: .fs-6 .fw-300 }
 
-[![Captura de pantalla del menu de admin en SIU](../../assets/images/Ajustes.png)](../../assets/images/Ajustes.png)
+[![Captura de pantanlla de Ajustes](../../assets/images/Ajustes.png)](../../assets/images/Ajustes.png)
 
