@@ -23,7 +23,7 @@ En esta pantalla podras dar de alta los documentos que sean necesarios solicitar
 
 ## Alta nuevo documento
 
-En esta sección podrá dar de alta un documento al presionar el botón [![Captura nuevo documento](../../assets/images/Documentacion_nuevo_documento.png)](../../assets/images/Documentacion_nuevo_documento.png){:target="_blank"} posterior se desplegara una pantalla para que pueda ingresar la información del documento a solicitar.
+En esta sección podrá dar de alta un documento al presionar el botón [![Captura nuevo documento](../../assets/images/Documentacion_nuevo_documento.png){: style="max-width: 130px "}](../../assets/images/Documentacion_nuevo_documento.png){:target="_blank"} posterior se desplegara una pantalla para que pueda ingresar la información del documento a solicitar.
 
 Para hacer iniciar con el proceso de la carga del archivo, será necesario presionar el botón [![](../../assets/images/Archivo_masivo_cargar_boton.png)](../../assets/images/Archivo_masivo_cargar_boton.png){:target="_blank"} y selección el archivo con el que se desea trabajar, una vez seleccionado tu archivo bastara con presionar el botón [![](../../assets/images/Archivo_masivo_guardar.png)](../../assets/images/Archivo_masivo_guardar.png){:target="_blank"}.
 

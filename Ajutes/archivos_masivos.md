@@ -27,7 +27,7 @@ En esta seccion de la pantalla podras realizar la carga del archivo masivo corre
 
 [![](../../assets/images/Archivo_masivo_cargar.png)](../../assets/images/Archivo_masivo_cargar.png){:target="_blank"}
 
-Para hacer iniciar con el proceso de la carga del archivo, será necesario presionar el botón [![](../../assets/images/Archivo_masivo_cargar_boton.png)](../../assets/images/Archivo_masivo_cargar_boton.png){:target="_blank"} y selección el archivo con el que se desea trabajar, una vez seleccionado tu archivo bastara con presionar el botón [![](../../assets/images/Archivo_masivo_guardar.png)](../../assets/images/Archivo_masivo_guardar.png){:target="_blank"}.
+Para iniciar con el proceso de la carga del archivo, será necesario presionar el botón ![](../../assets/images/Archivo_masivo_cargar_boton.png){: style="max-width: 140px "} y seleccionar el archivo con el que se desea trabajar, una vez seleccionado tu archivo bastara con presionar el botón [![](../../assets/images/Archivo_masivo_guardar.png)](../../assets/images/Archivo_masivo_guardar.png){:target="_blank"}.
 
 {: .info }
 Recuerda que puedes visualizar la lista de archivos disponibles en el recuadro azul que se encuentra justo arriba del botón seleccionar un archivo. 
