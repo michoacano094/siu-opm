@@ -25,45 +25,23 @@ En esta pantalla podrás dar de alta los documentos que sean necesarios solicita
 
 En esta sección podrás dar de alta un documento al presionar el botón [![Captura nuevo documento](../../assets/images/Documentacion_nuevo_documento.png){: style="max-width: 130px "}](../../assets/images/Documentacion_nuevo_documento.png){:target="_blank"} posterior se desplegara una pantalla para que pueda ingresar la información del documento a solicitar.[![](../../assets/images/Documentacion_pantalla_nuevo_documento.png){: style="max-width: 130px "}](../../assets/images/Documentacion_pantalla_nuevo_documento.png){:target="_blank"} 
 
-{: .info }
-
 El llenado debe ser de la siguiente forma:
 Clave[![](../../assets/images/Documentacion_clave_documento.png){: style="max-width: 130px "](../../assets/images/Documentacion_clave_documento.png){:target="_blank"} en este campo se deben colocar las claves que con antelación ya han sido definidas entre los aliados.
 
 Descripción [![](../../assets/images/Documentacion_descripcion_documento.png){: style="max-width: 130px "](../../assets/images/Documentacion_descripcion_documento.png){:target="_blank"} en este campo se deben colocar los nombres de los documentos que se solicitaran a los prospectos y que con antelación ya han sido definidas entre los aliados.
 
-
-Formato del documento [![](../../assets/images/Documentacion_formato_documento_completo.png){: style="max-width: 130px "](../../assets/images/Documentacion_formato_documento_completo.png){:target="_blank"} en este campo se debe seleccionar el tipo de documento que han definido se recibiran por parte de los prospectos.
+Formato del documento [![](../../assets/images/Documentacion_formato_documento.png){: style="max-width: 130px "](../../assets/images/Documentacion_formato_documento.png){:target="_blank"} en este campo se debe seleccionar el tipo de documento que han definido se recibiran por parte de los prospectos.
 
 ¿Se mostrara en el dashboard del alumno?[![](../../assets/images/Documentacion_visibilidad_dashboard.png){: style="max-width: 130px "](../../assets/images/Documentacion_visibilidad_dashboard.png){:target="_blank"} este apartado hace referencia a 
 
-El llenado debe ser de la siguiente forma:
-Clave[![](../../assets/images/Documentacion_clave_documento.png){: style="max-width: 130px "](../../assets/images/Documentacion_clave_documento.png){:target="_blank"} en este campo se deben colocar las claves que con antelación ya han sido definidas entre los aliados.
+¿Puede subir documento el alumno?[![](../../assets/images/Documentacion_subir_documento.png){: style="max-width: 130px "](../../assets/images/Documentacion_subir_documento.png){:target="_blank"} .
 
-El llenado debe ser de la siguiente forma:
-Clave[![](../../assets/images/Documentacion_clave_documento.png){: style="max-width: 130px "](../../assets/images/Documentacion_clave_documento.png){:target="_blank"} en este campo se deben colocar las claves que con antelación ya han sido definidas entre los aliados.
+Usar si se necesita mostrar una URL al alumno[![](../../assets/images/Documentacion_url_documento.png){: style="max-width: 130px "](../../assets/images/Documentacion_url_documento.png){:target="_blank"} 
 
-El llenado debe ser de la siguiente forma:
-Clave[![](../../assets/images/Documentacion_clave_documento.png){: style="max-width: 130px "](../../assets/images/Documentacion_clave_documento.png){:target="_blank"} en este campo se deben colocar las claves que con antelación ya han sido definidas entre los aliados.
+Tipo documento interno[![](../../assets/images/Documentacion_formato_documento_completo.png){: style="max-width: 130px "](../../assets/images/Documentacion_formato_documento_completo
+.png){:target="_blank"}
 
-El llenado debe ser de la siguiente forma:
-Clave[![](../../assets/images/Documentacion_clave_documento.png){: style="max-width: 130px "](../../assets/images/Documentacion_clave_documento.png){:target="_blank"} en este campo se deben colocar las claves que con antelación ya han sido definidas entre los aliados.
-
-El llenado debe ser de la siguiente forma:
-Clave[![](../../assets/images/Documentacion_clave_documento.png){: style="max-width: 130px "](../../assets/images/Documentacion_clave_documento.png){:target="_blank"} en este campo se deben colocar las claves que con antelación ya han sido definidas entre los aliados.
-
-El llenado debe ser de la siguiente forma:
-Clave[![](../../assets/images/Documentacion_clave_documento.png){: style="max-width: 130px "](../../assets/images/Documentacion_clave_documento.png){:target="_blank"} en este campo se deben colocar las claves que con antelación ya han sido definidas entre los aliados.
-
-El llenado debe ser de la siguiente forma:
-Clave[![](../../assets/images/Documentacion_clave_documento.png){: style="max-width: 130px "](../../assets/images/Documentacion_clave_documento.png){:target="_blank"} en este campo se deben colocar las claves que con antelación ya han sido definidas entre los aliados.
-
-El llenado debe ser de la siguiente forma:
-Clave[![](../../assets/images/Documentacion_clave_documento.png){: style="max-width: 130px "](../../assets/images/Documentacion_clave_documento.png){:target="_blank"} en este campo se deben colocar las claves que con antelación ya han sido definidas entre los aliados.
-
-El llenado debe ser de la siguiente forma:
-Clave[![](../../assets/images/Documentacion_clave_documento.png){: style="max-width: 130px "](../../assets/images/Documentacion_clave_documento.png){:target="_blank"} en este campo se deben colocar las claves que con antelación ya han sido definidas entre los aliados.
-
+Mensaje para el prospecto[![](../../assets/images/Documentacion_mensaje.png){: style="max-width: 130px "](../../assets/images/Documentacion_mensaje.png){:target="_blank"}
 
 ## Historial
 
