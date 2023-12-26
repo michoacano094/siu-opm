@@ -29,22 +29,23 @@ En esta sección podrás dar de alta un documento al presionar el botón [![Capt
 
 El llenado debe ser de la siguiente forma:
 
-Clave [![](../../assets/images/Documentacion_clave_documento.png){: style="max-width: 130px "](../../assets/images/Documentacion_clave_documento.png){:target="_blank"} en este campo se deben colocar las claves que con antelación ya han sido definidas entre los aliados.
+[![](../../assets/images/Documentacion_clave_documento.png){: style="max-width: 130px "](../../assets/images/Documentacion_clave_documento.png){:target="_blank"} en este campo se deben colocar las claves que con antelación ya han sido definidas entre los aliados para cada uno de los documentos.
 
-Descripción [![](../../assets/images/Documentacion_descripcion_documento.png){: style="max-width: 130px "](../../assets/images/Documentacion_descripcion_documento.png){:target="_blank"} en este campo se deben colocar los nombres de los documentos que se solicitaran a los prospectos y que con antelación ya han sido definidas entre los aliados.
+[![](../../assets/images/Documentacion_descripcion_documento.png){: style="max-width: 130px "](../../assets/images/Documentacion_descripcion_documento.png){:target="_blank"} en este campo se deben colocar los nombres de los documentos que se solicitaran a los prospectos y que con antelación ya han sido definidas entre los aliados.
 
-Formato del documento [![](../../assets/images/Documentacion_formato_documento.png){: style="max-width: 130px "](../../assets/images/Documentacion_formato_documento.png){:target="_blank"} en este campo se debe seleccionar el tipo de documento que han definido se recibiran por parte de los prospectos.
+[![](../../assets/images/Documentacion_formato_documento.png){: style="max-width: 130px "](../../assets/images/Documentacion_formato_documento.png){:target="_blank"} en este campo se debe seleccionar el tipo de documento que han definido se recibiran por parte de los prospectos.
 
-¿Se mostrara en el dashboard del alumno?[![](../../assets/images/Documentacion_visibilidad_dashboard.png){: style="max-width: 130px "](../../assets/images/Documentacion_visibilidad_dashboard.png){:target="_blank"} este apartado hace referencia a 
+[![](../../assets/images/Documentacion_visibilidad_dashboard.png){: style="max-width: 130px "](../../assets/images/Documentacion_visibilidad_dashboard.png){:target="_blank"} este apartado indica que el documento se mostrará y se aceptara en el dashboard del prospecto.
 
-¿Puede subir documento el alumno?[![](../../assets/images/Documentacion_subir_documento.png){: style="max-width: 130px "](../../assets/images/Documentacion_subir_documento.png){:target="_blank"} .
+[![](../../assets/images/Documentacion_subir_documento.png){: style="max-width: 130px "](../../assets/images/Documentacion_subir_documento.png){:target="_blank"} aquí indican que documentos se habilitaran para que el prospecto pueda subir la documentación requerida.
 
-Usar si se necesita mostrar una URL al alumno[![](../../assets/images/Documentacion_url_documento.png){: style="max-width: 130px "](../../assets/images/Documentacion_url_documento.png){:target="_blank"} 
+[![](../../assets/images/Documentacion_url_documento.png){: style="max-width: 130px "](../../assets/images/Documentacion_url_documento.png){:target="_blank"} este apartado esta diseñado para aquillos documentos en los cuales el alumno tiene que ingresar a un link para poder leer terminos y condiciones o habeas data de los cuales deben estan enterados para su proceso.
 
-Tipo documento interno[![](../../assets/images/Documentacion_formato_documento_completo.png){: style="max-width: 130px "](../../assets/images/Documentacion_formato_documento_completo
-.png){:target="_blank"}
+[![](../../assets/images/Documentacion_formato_documento_completo.png){: style="max-width: 130px "](../../assets/images/Documentacion_formato_documento_completo.png){:target="_blank"} dentro de esta apartado se le asigna la función con la que estará trabajando el documento, es decir si se le asigna el tipo check este solo se habilitara una vez que se suba el documento al sistema, si de indica que es tipo fecha para que el documento se pueda colocar en validación se debe asignar una fecha en especifico para que se valide el documento, en cuanto a tipo foto es el formato en el que solicitara el documento. 
 
-Mensaje para el prospecto[![](../../assets/images/Documentacion_mensaje.png){: style="max-width: 130px "](../../assets/images/Documentacion_mensaje.png){:target="_blank"}
+Nota. De no colocar alguna configuración los documentos se crearan con check y formato PDF.
+
+[![](../../assets/images/Documentacion_mensaje.png){: style="max-width: 130px "](../../assets/images/Documentacion_mensaje.png){:target="_blank"} en este apartado se puede colocar un mensaje en los documentos que le aparecen en el dashboard del alumno.
 
 ## Historial
 
