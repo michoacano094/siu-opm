@@ -8,7 +8,7 @@ parent: Documentación
 # Alta documentos
 {: .no_toc }
 
-En esta pantalla podras dar de alta los documentos que sean necesarios solicitar al alumno para que cumpla con su registro de matriculación.
+En esta pantalla podrás dar de alta los documentos que sean necesarios solicitar al alumno para que cumpla con su registro de matriculación.
 {: .fs-6 .fw-300 }
 
 [![Captura de pantalla de alta de documentos](../../assets/images/Documentacion_alta_documentos.png)](../../assets/images/Documentacion_alta_documentos.png){:target="_blank"}
@@ -21,17 +21,49 @@ En esta pantalla podras dar de alta los documentos que sean necesarios solicitar
 
 ---
 
-## Alta nuevo documento
+## Alta de nuevo documento
 
-En esta sección podrás dar de alta un documento al presionar el botón [![Captura nuevo documento](../../assets/images/Documentacion_nuevo_documento.png){: style="max-width: 130px "}](../../assets/images/Documentacion_nuevo_documento.png){:target="_blank"} posterior se desplegara una pantalla para que pueda ingresar la información del documento a solicitar.
-
-Para dar de alta un nuevo documento se debe presionar el botón [![](../../assets/images/Archivo_masivo_cargar_boton.png)](../../assets/images/Archivo_masivo_cargar_boton.png){:target="_blank"} y selección el archivo con el que se desea trabajar, una vez seleccionado tu archivo bastara con presionar el botón [![](../../assets/images/Archivo_masivo_guardar.png)](../../assets/images/Archivo_masivo_guardar.png){:target="_blank"}.
+En esta sección podrás dar de alta un documento al presionar el botón [![Captura nuevo documento](../../assets/images/Documentacion_nuevo_documento.png){: style="max-width: 130px "}](../../assets/images/Documentacion_nuevo_documento.png){:target="_blank"} posterior se desplegara una pantalla para que pueda ingresar la información del documento a solicitar.[![](../../assets/images/Documentacion_pantalla_nuevo_documento.png){: style="max-width: 130px "}](../../assets/images/Documentacion_pantalla_nuevo_documento.png){:target="_blank"} 
 
 {: .info }
-Recuerda que puedes visualizar la lista de archivos disponibles en el recuadro azul que se encuentra justo arriba del botón seleccionar un archivo. 
-[![](../../assets/images/Archivo_masivo_archivos_disponibles.png)](../../assets/images/Archivo_masivo_archivos_disponibles.png){:target="_blank"}
 
-Una vez completado el proceso con éxito, visualizaras algo similar a la siguiente pantalla en donde se indica que el archivo fue cargado con éxito [![](../../assets/images/Archivo_masivo_archivo_guardado_con_exito.png)](../../assets/images/Archivo_masivo_archivo_guardado_con_exito.png){:target="_blank"}
+El llenado debe ser de la siguiente forma:
+Clave[![](../../assets/images/Documentacion_clave_documento.png){: style="max-width: 130px "](../../assets/images/Documentacion_clave_documento.png){:target="_blank"} en este campo se deben colocar las claves que con antelación ya han sido definidas entre los aliados.
+
+Descripción [![](../../assets/images/Documentacion_descripcion_documento.png){: style="max-width: 130px "](../../assets/images/Documentacion_descripcion_documento.png){:target="_blank"} en este campo se deben colocar los nombres de los documentos que se solicitaran a los prospectos y que con antelación ya han sido definidas entre los aliados.
+
+
+Formato del documento [![](../../assets/images/Documentacion_formato_documento_completo.png){: style="max-width: 130px "](../../assets/images/Documentacion_formato_documento_completo.png){:target="_blank"} en este campo se debe seleccionar el tipo de documento que han definido se recibiran por parte de los prospectos.
+
+¿Se mostrara en el dashboard del alumno?[![](../../assets/images/Documentacion_visibilidad_dashboard.png){: style="max-width: 130px "](../../assets/images/Documentacion_visibilidad_dashboard.png){:target="_blank"} este apartado hace referencia a 
+
+El llenado debe ser de la siguiente forma:
+Clave[![](../../assets/images/Documentacion_clave_documento.png){: style="max-width: 130px "](../../assets/images/Documentacion_clave_documento.png){:target="_blank"} en este campo se deben colocar las claves que con antelación ya han sido definidas entre los aliados.
+
+El llenado debe ser de la siguiente forma:
+Clave[![](../../assets/images/Documentacion_clave_documento.png){: style="max-width: 130px "](../../assets/images/Documentacion_clave_documento.png){:target="_blank"} en este campo se deben colocar las claves que con antelación ya han sido definidas entre los aliados.
+
+El llenado debe ser de la siguiente forma:
+Clave[![](../../assets/images/Documentacion_clave_documento.png){: style="max-width: 130px "](../../assets/images/Documentacion_clave_documento.png){:target="_blank"} en este campo se deben colocar las claves que con antelación ya han sido definidas entre los aliados.
+
+El llenado debe ser de la siguiente forma:
+Clave[![](../../assets/images/Documentacion_clave_documento.png){: style="max-width: 130px "](../../assets/images/Documentacion_clave_documento.png){:target="_blank"} en este campo se deben colocar las claves que con antelación ya han sido definidas entre los aliados.
+
+El llenado debe ser de la siguiente forma:
+Clave[![](../../assets/images/Documentacion_clave_documento.png){: style="max-width: 130px "](../../assets/images/Documentacion_clave_documento.png){:target="_blank"} en este campo se deben colocar las claves que con antelación ya han sido definidas entre los aliados.
+
+El llenado debe ser de la siguiente forma:
+Clave[![](../../assets/images/Documentacion_clave_documento.png){: style="max-width: 130px "](../../assets/images/Documentacion_clave_documento.png){:target="_blank"} en este campo se deben colocar las claves que con antelación ya han sido definidas entre los aliados.
+
+El llenado debe ser de la siguiente forma:
+Clave[![](../../assets/images/Documentacion_clave_documento.png){: style="max-width: 130px "](../../assets/images/Documentacion_clave_documento.png){:target="_blank"} en este campo se deben colocar las claves que con antelación ya han sido definidas entre los aliados.
+
+El llenado debe ser de la siguiente forma:
+Clave[![](../../assets/images/Documentacion_clave_documento.png){: style="max-width: 130px "](../../assets/images/Documentacion_clave_documento.png){:target="_blank"} en este campo se deben colocar las claves que con antelación ya han sido definidas entre los aliados.
+
+El llenado debe ser de la siguiente forma:
+Clave[![](../../assets/images/Documentacion_clave_documento.png){: style="max-width: 130px "](../../assets/images/Documentacion_clave_documento.png){:target="_blank"} en este campo se deben colocar las claves que con antelación ya han sido definidas entre los aliados.
+
 
 ## Historial
 
