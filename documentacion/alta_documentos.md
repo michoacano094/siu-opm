@@ -23,10 +23,13 @@ En esta pantalla podrás dar de alta los documentos que sean necesarios solicita
 
 ## Alta de nuevo documento
 
-En esta sección podrás dar de alta un documento al presionar el botón [![Captura nuevo documento](../../assets/images/Documentacion_nuevo_documento.png){: style="max-width: 130px "}](../../assets/images/Documentacion_nuevo_documento.png){:target="_blank"} posterior se desplegara una pantalla para que pueda ingresar la información del documento a solicitar.[![](../../assets/images/Documentacion_pantalla_nuevo_documento.png){: style="max-width: 130px "}](../../assets/images/Documentacion_pantalla_nuevo_documento.png){:target="_blank"} 
+En esta sección podrás dar de alta un documento al presionar el botón [![Captura nuevo documento](../../assets/images/Documentacion_nuevo_documento.png){: style="max-width: 130px "}](../../assets/images/Documentacion_nuevo_documento.png){:target="_blank"} posterior se desplegara una pantalla para que pueda ingresar la información del documento a solicitar.
+
+[![](../../assets/images/Documentacion_pantalla_nuevo_documento.png)](../../assets/images/Documentacion_pantalla_nuevo_documento.png){:target="_blank"} 
 
 El llenado debe ser de la siguiente forma:
-Clave[![](../../assets/images/Documentacion_clave_documento.png){: style="max-width: 130px "](../../assets/images/Documentacion_clave_documento.png){:target="_blank"} en este campo se deben colocar las claves que con antelación ya han sido definidas entre los aliados.
+
+Clave [![](../../assets/images/Documentacion_clave_documento.png){: style="max-width: 130px "](../../assets/images/Documentacion_clave_documento.png){:target="_blank"} en este campo se deben colocar las claves que con antelación ya han sido definidas entre los aliados.
 
 Descripción [![](../../assets/images/Documentacion_descripcion_documento.png){: style="max-width: 130px "](../../assets/images/Documentacion_descripcion_documento.png){:target="_blank"} en este campo se deben colocar los nombres de los documentos que se solicitaran a los prospectos y que con antelación ya han sido definidas entre los aliados.
 
