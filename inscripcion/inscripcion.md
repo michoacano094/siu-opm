@@ -1,11 +1,11 @@
 ---
 layout: default
-title: inConcert
-nav_order: 5
+title: Inscripción
+nav_order: 6
 has_children: true
 ---
 
-# inConcert
+# Inscripción
 {: .no_toc }
 
 En este módulo podrás realizar diversas configuraciones y acceder a información importante de la plataforma.
